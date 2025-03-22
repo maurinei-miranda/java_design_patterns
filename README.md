@@ -1,6 +1,6 @@
-# 💡 Desafios de Design Patterns em Java
+# 💡 Design Patterns em Java
 
-Este repositório contém desafios práticos para estudar e implementar os principais **Design Patterns** usando Java. Os desafios estão organizados em três categorias: **Criacionais**, **Estruturais** e **Comportamentais**.
+Repositório com implementações dos principais Design Patterns em Java, mantido como exercício de reforço e referência pessoal.
 
 ---
 
@@ -175,17 +175,3 @@ Este repositório contém desafios práticos para estudar e implementar os princ
 **Desafio:** Aplique regras de impostos a diferentes produtos usando `Visitor`.  
 **Instruções:**
 - Implemente o padrão para evitar `instanceof`.
-
----
-
-## ✅ Como Usar
-
-1. Escolha um desafio.
-2. Crie um pacote e classes correspondentes.
-3. Resolva o desafio com o Design Pattern proposto.
-4. Documente sua solução no README do desafio (explicando o pattern e as decisões tomadas).
-5. (Opcional) Crie testes unitários.
-
----
-
-Se quiser, posso te ajudar a gerar a estrutura de diretórios com os arquivos iniciais. É só pedir!
