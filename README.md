@@ -1,3 +1,5 @@
+📄 Available in: [🇺🇸 English](./README.en.md) | [🇧🇷 Portuguese](./README.md)
+
 # 💡 Design Patterns em Java
 
 Repositório com implementações dos principais Design Patterns em Java, mantido como exercício de reforço e referência pessoal.
@@ -35,6 +37,14 @@ Repositório com implementações dos principais Design Patterns em Java, mantid
 **Instruções:**
 - Modele uma classe `ReportDirector` que usa o builder.
 - Crie builders concretos para cada formato.
+
+---
+
+### 4.1 Builder + Fluent Interface - Montador de Carros
+**Desafio:** Construa objetos Car com diferentes configurações usando o padrão Builder.
+**Instruções:**
+- Modele a classe Car com atributos configuráveis como portas, rodas e cor.
+- Implemente um Builder interno para permitir construções flexíveis e encadeadas.
 
 ---
 
